@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Pilot",
+    "number": 1,
+    "image": "http://static.tvmaze.com/uploads/images/medium_landscape/4/12368.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Big Bran Hypothesis",
+    "number": 2,
+    "image": "http://static.tvmaze.com/uploads/images/medium_landscape/4/12369.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Fuzzy Boots Corollary",
+    "number": 3,
+    "image": "http://static.tvmaze.com/uploads/images/medium_landscape/4/12370.jpg"
+  }
+]
